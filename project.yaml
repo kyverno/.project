@@ -24,7 +24,7 @@ repositories:
 
 website: "https://kyverno.io/"
 
-artwork: "https://landscape.cncf.io/logos/kyverno.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/kyverno"
 
 adopters:
   path: "https://github.com/kyverno/kyverno/blob/main/ADOPTERS.md"
